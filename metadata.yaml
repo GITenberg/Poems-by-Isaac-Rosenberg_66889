@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8532'
     url: http://www.gutenberg.org/2009/agents/8532
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Binyon
+covers:
+- cover_type: archival
+  image_path: 66889-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosenberg, Isaac
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7391
     wikipedia: http://en.wikipedia.org/wiki/Gordon_Bottomley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66889#Poems-by-Isaac-Rosenberg
 gutenberg_issued: '2021-12-06'
 identifiers:
   gutenberg: '66889'
